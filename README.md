@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm studying Civil Engineering in Computer Science at the Universidad Autónoma de Chile.\
 🌱 &nbsp;I'm currently learning about Artificial Intelligence at university, and I continue developing my skills in React and Node.js on my own.\
 🎮 &nbsp;In my free time, I enjoy playing video games, drawing, and reading books, which helps me maintain a balance between technical development and creativity.\
-💬 &nbsp;I'm always open to connecting with other developers or tech enthusiasts to exchange ideas, collaborate on projects, or simply have an interesting conversation about technology and its applications.\
+💬 &nbsp;I'm always open to connecting with other developers or tech enthusiasts to exchange ideas, collaborate on projects, or simply have an interesting conversation about technology and its applications.
 
 ### 🛠 &nbsp;Tech Stack
 
